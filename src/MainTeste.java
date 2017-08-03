@@ -7,6 +7,7 @@ public class MainTeste {
 		System.out.println("início");
 		
 		System.out.println("fim");
+		Bicicleta bike = new Bicicleta();
 
 	}
 

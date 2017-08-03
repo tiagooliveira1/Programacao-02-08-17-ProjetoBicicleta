@@ -6,9 +6,13 @@ public class MainTeste {
 		
 		System.out.println("início");
 		
-		System.out.println("fim");
+		
 		Bicicleta bike = new Bicicleta();
-		System.out.println(bike);
+		System.out.println( "Cadência: "+bike.getCadencia() );
+		System.out.println( "Velocidade: "+bike.getVelocidade() );
+		System.out.println( "Marcha: "+bike.getMarcha() );
+		
+		System.out.println("fim");
 	}
 
 }

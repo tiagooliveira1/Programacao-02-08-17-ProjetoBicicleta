@@ -8,7 +8,7 @@ public class MainTeste {
 		
 		System.out.println("fim");
 		Bicicleta bike = new Bicicleta();
-
+		System.out.println(bike);
 	}
 
 }
